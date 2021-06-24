@@ -10,14 +10,8 @@ public class Date {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner (System.in);
 		
-		
-	//	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-		
-		
-	   
-		System.out.println("Digita uma data: ");
-		String  n = sc.nextLine();
-		System.out.println(n);
+	  System.out.println("Boa dia");	
+	
 		sc.close();
 	}
 }
